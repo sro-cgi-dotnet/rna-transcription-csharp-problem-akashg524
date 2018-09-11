@@ -21,7 +21,7 @@ namespace RNATranscriptionModule
                     break;
                     default: break;
                 }
-            }
+            }//testing
             return input;
         }
     }
